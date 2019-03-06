@@ -1,3 +1,4 @@
+
 The Contiki Operating System
 ============================
 
@@ -17,3 +18,13 @@ and so on.
 For more information, see the Contiki website:
 
 [http://contiki-os.org](http://contiki-os.org)
+
+
+
+How to install?(tested ubuntu 18.04.1)
+1. git clone https://github.com/PkLearning/contiki.git
+2. git submodule update --init
+3. sudo apt-get update & sudo apt-get upgrade -y
+4. sudo apt-get install ant
+5. cd /contiki/tools/cooja
+6. ant run
