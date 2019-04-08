@@ -1,3 +1,11 @@
+# Installl Ubuntu 18.04.1
+[install packet follow the book](https://books.google.co.th/books?id=rv1fDwAAQBAJ&pg=PA47&lpg=PA47&dq=practical+contiki+ng&source=bl&ots=6Dw-Ovcnqb&sig=ACfU3U3vpzrCtJ-cmbbWxQPcz8iPeW1B3A&hl=en&sa=X&ved=2ahUKEwjPifzFnb7hAhXXQ30KHW0nC8UQ6AEwBHoECAkQAQ#v=onepage&q=practical%20contiki%20ng&f=false)
+
+[Maybe load this](https://github.com/contiki-os/mspsim)
+
+[Fix error when ant run](https://stackoverflow.com/a/36094658)
+
+
 
 The Contiki Operating System
 ============================
